@@ -4,12 +4,17 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+![Yours Truly][8]
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+I'm a [computer programmer][1]. I live in Greensboro, North Carolina. I like to [collect comic books][2], [take photographs][3], and hang out with [my girlfriend][4]. I like [turtles][5].
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+You can find a bunch of links on [my homepage][6].
+
+[1]: http://myemma.com
+[2]: http://comicbinder.com
+[3]: http://photos.treypiepmeier.com
+[4]: http://olivialeighmiller.com
+[5]: http://www.nick.com/shows/ninja-turtles/
+[6]: http://treypiepmeier.com
+[7]: https://www.flickr.com/photos/livie_leigh/16127034269/
+[8]: /img/blue-hat-yashica.jpg "The Author"
