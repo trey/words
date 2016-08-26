@@ -1,0 +1,14 @@
+header {
+    margin-bottom: #{$base-unit*2};
+
+    h1 { margin: 0 $base-unit 0 0; }
+
+    .date { margin-top: #{$base-unit*.5}; }
+
+    @include breakpoint('M') {
+        align-items: baseline;
+        display: flex;
+
+        .date { margin-top: 0; }
+    }
+}

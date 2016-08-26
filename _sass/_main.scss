@@ -1,0 +1,20 @@
+body {
+    background: $body-background;
+    border-left: $base-unit solid darken($header, 10%);
+    min-height: 100vh;
+
+    > header { @import 'partials/header' }
+}
+
+body.home { @import 'partials/home'; }
+
+img { max-width: 100%; }
+
+.wrapper {
+    max-width: 40em;
+    padding: 0 #{$base-unit*2} $base-unit;
+
+    nav { @import 'partials/nav'; }
+
+    .post { @import 'partials/post'; }
+}

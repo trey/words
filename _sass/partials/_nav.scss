@@ -1,0 +1,17 @@
+& {
+    margin: #{$base-unit*3} 0 0;
+    padding: $base-unit 0;
+
+    a {
+        text-decoration: none;
+    }
+
+    li { list-style: none; }
+
+    ul {
+        display: flex;
+        justify-content: space-between;
+        margin: 0;
+        padding: 0;
+    }
+}

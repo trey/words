@@ -1,0 +1,52 @@
+a {
+    // LVHA
+    // https://developer.mozilla.org/en-US/docs/Web/CSS/:visited
+    color: $links;
+    text-decoration: underline;
+
+    &:visited { color: $links-visited; }
+
+    &:hover { background-color: $links-hover; }
+
+    &:active {
+        position: relative;
+        top: 1px;
+    }
+}
+
+blockquote {
+    background: $gray-3;
+    border-left: 4px solid $blockquote;
+    margin: 0;
+    padding: 1em 40px;
+
+    p:last-child { margin: 0; }
+}
+
+body {
+    color: $body-text;
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    line-height: 1.8em;
+
+    &.home > header h1 { font-size: 30px; }
+
+    &.home li { font-size: 16px; }
+
+    > header a {
+        text-decoration: none;
+
+        &:hover {
+            background-color: unset;
+            text-decoration: underline;
+        }
+    }
+}
+
+nav a { color: $body-text; }
+
+p {
+    margin: 1.5em 0;
+
+    &:first-child { margin-top: 0; }
+}

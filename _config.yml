@@ -26,5 +26,6 @@ github_username:  trey
 
 # Build settings
 markdown: kramdown
-theme: minima
+# theme: minima
 permalink: /:year/:month/:title
+livereload: true

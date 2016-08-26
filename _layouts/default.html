@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>{{ site.title }}{% if page.title %} / {{ page.title }}{% endif %}</title>
+        <link href="//fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+        <link href="/css/index.css" rel="stylesheet">
+    </head>
+    <body class={% if page.url == '/' %}"home"{% else %}"post"{% endif %}>
+        <header>
+            {% if page.url == '/' %}
+            <h1>{{ site.title }}</h1>
+            {% else %}
+            <h1><a href="/">{{ site.title }}</a></h1>
+            {% endif %}
+
+            <a href="/about">About</a>
+        </header>
+
+        <div class="wrapper">
+            {{content}}
+        </div>
+    </body>
+</html>

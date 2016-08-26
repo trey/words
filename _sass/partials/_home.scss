@@ -1,0 +1,32 @@
+li {
+    list-style: none;
+    margin: 0 0 $base-unit;
+
+    a {
+        align-items: center;
+        background: lighten($post-index, 30%);
+        border-left: $base-unit solid lighten($post-index, 10%);
+        color: $post-index;
+        display: flex;
+        justify-content: space-between;
+        padding: $base-unit #{$base-unit*2};
+        text-decoration: none;
+
+        &:hover {
+            background-color: lighten($post-index, 45%);
+            border-color: $post-index;
+            color: $body-text;
+        }
+
+        .date { flex-shrink: 0; }
+
+        .title { margin-right: $base-unit; }
+    }
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+}
+
+.wrapper { margin: 0 -#{$base-unit*2} 0 -#{$base-unit*3}; }
