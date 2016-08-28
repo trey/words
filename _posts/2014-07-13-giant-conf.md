@@ -35,7 +35,7 @@ As usual with these kinds of things, it's the time between sessions that matters
 
 I also took the opportunity to try some [Sketchnoting][sketchnotes]. In this case, that consisted of Drawing at least one quick rendition of the speaker's head and occasionally giving them a word balloon. It was a fun exercise, but it did feel a little stressful at times. You can see a couple of examples on [my tweets from the event][trey-giantconf-tweets].
 
-Those are the big things I took away from GIANT Conf. I had a good time, but I don't think I would seek out a UX-focused conference again. If I'm going to spend that much time away from home, I would much prefer to have a lot more concrete techniques and [functional components (as you say)][merlin-mann] to discuss with my coworkers. That's not to say this was a bad conference, I just think maybe I'm no longer in the mode of wanting to be a conference goer[^8].
+Those are the big things I took away from GIANT Conf. I had a good time, but I don't think I would seek out a UX-focused conference again. If I'm going to spend that much time away from home, I would much prefer to have a lot more concrete techniques and functional components (as you say) to discuss with my coworkers. That's not to say this was a bad conference, I just think maybe I'm no longer in the mode of wanting to be a conference goer[^8].
 
 [^1]: I had moved away from Charleston less than a month before for the Piedmont-tastic Greensboro, NC. I had originally signed up to go to GIANT because it would have been "easy" since I was in the same town.
 
@@ -77,4 +77,3 @@ Those are the big things I took away from GIANT Conf. I had a good time, but I d
 [beep]: https://twitter.com/beep
 [michaelmcgee]: https://twitter.com/michaelmcgee
 [comicbinder]: /2014/06/comicbinder/
-[merlin-mann]: http://wiki.5by5.tv/wiki/The_Tuesday_Afternoon_Version_of_Me_(Back_to_Work_124)

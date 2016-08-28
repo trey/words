@@ -31,7 +31,7 @@ I don't think I'm wired to do that. Which is not to say that I don't half ass th
 
 So I stepped away from the computer. When my mind is raging, I do not think clearly. I walked away and went home and did things with my hands. I wrapped Christmas gifts.
 
-Today, I started off with a renewed desire to follow this rathole of a prototype one level deeper; I decided to create an API for my prototype using [Django REST framework][drf]. I still think this may be a complete waste of my time, but there's something about Django that still grabs me [after all these years][django-designer-initiative]. Being able to hack a few things together and get an [administration interface][django-admin] is like magic. And now, being able to do that and, seemingly, create a RESTful API is yet another level of magic.
+Today, I started off with a renewed desire to follow this rathole of a prototype one level deeper; I decided to create an API for my prototype using [Django REST framework][drf]. I still think this may be a complete waste of my time, but there's something about Django that still grabs me after all these years. Being able to hack a few things together and get an [administration interface][django-admin] is like magic. And now, being able to do that and, seemingly, create a RESTful API is yet another level of magic.
 
 As I take the time to ramble on in this blog post, I'm trying to be accepting of where this week-long journey has taken me and not be ashamed or frustrated with myself. Now I know myself a little bit better. I know what I'd do when given free reign over my time with no restriction on being "productive" or profitable. Maybe I would do things differently if given the opportunity again [^differently], but I have gotten a lot of stuff into my psyche that wasn't there before. I have a deeper understanding of a lot of technologies and, even though I don't fully understand them, [^no] I know better now what clicks with me and feels right.
 
@@ -51,8 +51,7 @@ As I take the time to ramble on in this blog post, I'm trying to be accepting of
 [studioboro]: http://studioboro.com/
 [drf]: http://www.django-rest-framework.org/
 [marionette-book]: https://leanpub.com/marionette-gentle-introduction
-[marionette-modules]: http://marionettejs.com/docs/marionette.module.html
+[marionette-modules]: http://marionettejs.com/docs/v2.4.7/marionette.module.html
 [firebase]: https://www.firebase.com/
 [django]: http://djangoproject.com
-[django-designer-initiative]: http://blog.treypiepmeier.com/archives/144/
 [django-admin]: https://docs.djangoproject.com/en/1.7/intro/overview/#a-dynamic-admin-interface-it-s-not-just-scaffolding-it-s-the-whole-house
