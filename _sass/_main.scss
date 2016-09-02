@@ -6,8 +6,6 @@ body {
     > header { @import 'partials/header' }
 }
 
-body.home { @import 'partials/home'; }
-
 img { max-width: 100%; }
 
 .wrapper {
@@ -18,3 +16,5 @@ img { max-width: 100%; }
 
     .post { @import 'partials/post'; }
 }
+
+body.home .wrapper { @import 'partials/home'; }

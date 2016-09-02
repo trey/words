@@ -29,7 +29,9 @@ body {
     font-size: 18px;
     line-height: 1.8em;
 
-    &.home > header h1 { font-size: 30px; }
+    @include breakpoint('M') {
+        &.home > header h1 { font-size: 30px; }
+    }
 
     &.home li { font-size: 16px; }
 
