@@ -45,6 +45,11 @@ body {
     }
 }
 
+footer {
+    color: lighten($body-text, 25%);
+    font-size: 11px;
+}
+
 nav a { color: $body-text; }
 
 p {

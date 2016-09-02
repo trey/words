@@ -3,6 +3,11 @@ body {
     border-left: $base-unit solid darken($header, 10%);
     min-height: 100vh;
 
+    > footer {
+        margin: 0 #{$base-unit*2};
+        padding-bottom: #{$base-unit*2};
+    }
+
     > header { @import 'partials/header' }
 }
 
