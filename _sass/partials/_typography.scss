@@ -48,6 +48,8 @@ body {
 footer {
     color: lighten($body-text, 25%);
     font-size: 11px;
+
+    p { margin: 0; }
 }
 
 nav a { color: $body-text; }
