@@ -5,7 +5,7 @@ date: 2014-07-13 12:24:40 -0400
 categories: review
 ---
 
-[![Fisticuffs](/img/piepmeier-and-beaird.jpg "Piepmeier and Beaird about to duke it out.")][fisticuffs]
+{% image_tag title="Fisticuffs" alt="Piepmeier and Beaird about to duke it out." src="/img/piepmeier-and-beaird.jpg" width="640" %}
 
 Last month, I attended [the first annual GIANT Conf][giant] in Charleston, SC. I wasn't sure what to expect, and had mixed feelings about making the trip back so shortly after leaving[^1]. For better or worse, here's what I thought of it.
 

@@ -5,7 +5,7 @@ date: 2015-08-29 22:49:40 -0400
 categories: gratitude
 ---
 
-[![Bernard and Dorothy][pic]][pic]
+[{% image_tag src="/img/bernard-and-dorothy.jpg" alt="Bernard and Dorothy" width="640" %}][pic]
 
 I woke up this morning with the noise of thumping music outside. I picked up my [Polaroid 100][p100] and walked over to see what was going on. It was the [Color Vibe 5k][colorvibe]. It seemed more like a rave.
 

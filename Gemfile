@@ -22,6 +22,7 @@ gem "jekyll", "3.2.1"
 group :jekyll_plugins do
     gem "jekyll-assets"
     gem "jekyll-livereload"
+    gem "jekyll-srcset"
 end
 
 gem "autoprefixer-rails"
