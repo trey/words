@@ -28,4 +28,3 @@ github_username:  trey
 markdown: kramdown
 # theme: minima
 permalink: /:year/:month/:title
-livereload: true
