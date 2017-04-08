@@ -13,6 +13,6 @@ You can find a bunch of links on [my homepage][6].
 [1]: http://myemma.com
 [2]: https://comicbinder.com
 [3]: https://www.flickr.com/photos/trey_piepmeier/
-[4]: http://olivialeighmiller.com
-[5]: http://www.nick.com/shows/ninja-turtles/
+[4]: https://olivialeighmiller.com/about/
+[5]: http://www.nick.com/ninja-turtles/
 [6]: https://treypiepmeier.com
