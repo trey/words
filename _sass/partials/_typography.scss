@@ -6,7 +6,10 @@ a {
 
     &:visited { color: $links-visited; }
 
-    &:hover { background-color: $links-hover; }
+    &:hover {
+        color: $black;
+        background-color: $links-hover;
+    }
 
     &:active {
         position: relative;
