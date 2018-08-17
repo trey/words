@@ -14,6 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Trey’s Thoughts
+timezone: America/New_York
 email: trey@treypiepmeier.com
 description: > # this means to ignore newlines until "baseurl:"
   This is Trey Piepmeier's blog. He writes about photography and web development
