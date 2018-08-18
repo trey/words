@@ -1,8 +1,9 @@
 ---
+title: Instant Photos
+date: 2014-08-28 12:22:40 -04:00
+categories:
+- gratitude
 layout: post
-title: "Instant Photos"
-date: 2014-08-28 12:22:40 -0400
-categories: gratitude
 ---
 
 {% image_tag alt="Livie on Instax" src="/img/livie-instax.jpg" title="Livie on Instax" %}

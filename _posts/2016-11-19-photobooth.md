@@ -1,8 +1,9 @@
 ---
+title: 'Photobooth: A Biography'
+date: 2016-11-19 13:29:31 -05:00
+categories:
+- review
 layout: post
-title: "Photobooth: A Biography"
-date: "2016-11-19 13:29:31 -0500"
-category: review
 ---
 
 {% image_tag src="/img/photobooth.jpg" alt="The cover of Photobooth: A Biography" width="640" %}

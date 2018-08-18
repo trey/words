@@ -1,8 +1,9 @@
 ---
+title: HeroesCon
+date: 2014-06-25 22:35:40 -04:00
+categories:
+- event
 layout: post
-title:  "HeroesCon"
-date:   2014-06-25 22:35:40 -0400
-categories: event
 ---
 
 I think I first heard of [HeroesCon][hc] when someone at [Captain's Comics][cc][^1] mentioned that it would be a good place to take comics to get [graded][cgc] and not have to mail them in first.

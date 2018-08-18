@@ -1,8 +1,9 @@
 ---
+title: 'Locke & Key: Small World'
+date: 2017-01-11 00:00:00 -05:00
+categories:
+- review
 layout: post
-title:  "Locke & Key: Small World"
-date:  2017-01-11
-categories: review
 ---
 
 {% image_tag src="/img/small-world.jpg" alt="The cover of Locke & Key: Small World" width="640" %}

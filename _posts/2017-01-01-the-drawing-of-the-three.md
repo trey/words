@@ -1,8 +1,9 @@
 ---
+title: The Drawing of the Three
+date: 2017-01-01 00:00:00 -05:00
+categories:
+- review
 layout: post
-title: "The Drawing of the Three"
-date: "2017-01-01"
-category: review
 ---
 
 {% image_tag src="/img/tdott.jpg" alt="The cover of The Drawing of the Three" width="640" %}

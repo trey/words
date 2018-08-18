@@ -1,8 +1,9 @@
 ---
+title: A Holiday Journey
+date: 2015-01-25 21:23:40 -05:00
+categories:
+- project
 layout: post
-title:  "A Holiday Journey"
-date:   2015-01-25 22:23:40 -0400
-categories: project
 ---
 
 **Note:** This was written on December 19, 2014 and subsequently edited. Probably not edited enough.

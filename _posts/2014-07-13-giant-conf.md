@@ -1,8 +1,9 @@
 ---
+title: GIANT Conf
+date: 2014-07-13 12:24:40 -04:00
+categories:
+- review
 layout: post
-title: "GIANT Conf"
-date: 2014-07-13 12:24:40 -0400
-categories: review
 ---
 
 {% image_tag title="Fisticuffs" alt="Piepmeier and Beaird about to duke it out." src="/img/piepmeier-and-beaird.jpg" width="640" %}

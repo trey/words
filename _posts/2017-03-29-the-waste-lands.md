@@ -1,8 +1,9 @@
 ---
+title: The Waste Lands
+date: 2017-03-29 00:00:00 -04:00
+categories:
+- review
 layout: post
-title: "The Waste Lands"
-date: 2017-03-29
-categories: review
 ---
 
 {% image_tag src="/img/the-waste-lands.jpg" alt="The cover of the Stephen King book; The Waste Lands" width="640" %}

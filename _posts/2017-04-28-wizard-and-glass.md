@@ -1,8 +1,9 @@
 ---
+title: Wizard and Glass
+date: 2017-04-28 00:00:00 -04:00
+categories:
+- review
 layout: post
-title: "Wizard and Glass"
-date: 2017-04-28
-categories: review
 ---
 
 {% image_tag src="/img/wizard-and-glass.jpg" alt="The cover to Wizard and Glass" width="640" %}

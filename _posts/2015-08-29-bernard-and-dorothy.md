@@ -1,8 +1,9 @@
 ---
+title: Bernard and Dorothy
+date: 2015-08-29 22:49:40 -04:00
+categories:
+- gratitude
 layout: post
-title: "Bernard and Dorothy"
-date: 2015-08-29 22:49:40 -0400
-categories: gratitude
 ---
 
 [{% image_tag src="/img/bernard-and-dorothy.jpg" alt="Bernard and Dorothy" width="640" %}][pic]
